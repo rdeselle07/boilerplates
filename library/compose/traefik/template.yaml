@@ -11,9 +11,9 @@ metadata:
     Project: https://traefik.io/
 
     Documentation: https://doc.traefik.io/traefik/
-  version: v3.5.4
+  version: v3.5.6
   author: "Christian Lempa"
-  date: '2025-10-31'
+  date: '2025-11-09'
   tags:
     - reverse-proxy
     - load-balancer
